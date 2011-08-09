@@ -20,7 +20,7 @@ let colors_name = "ambient"
 if version >= 700
   hi CursorLine guibg=#3c3c3c ctermbg=237
   hi CursorColumn guibg=#3c3c3c ctermbg=237
-  hi MatchParen guifg=#e69c0d ctermfg=166 guibg=#3c3c3c ctermbg=237 gui=bold cterm=bold
+  hi MatchParen guifg=#e69c0d ctermfg=178 guibg=#3c3c3c ctermbg=237 gui=bold cterm=bold
   hi Pmenu 		guifg=#ffffff ctermfg=15 guibg=#4c4c4c ctermbg=239
   hi PmenuSel 	guifg=#000000 ctermfg=0 guibg=#f07746 ctermbg=209
 endif
@@ -41,10 +41,10 @@ hi SpecialKey	guifg=#4c4c4c ctermfg=239 gui=none
 " Syntax highlighting
 hi Comment 		guifg=#7c7c7c ctermfg=8
 hi Boolean      guifg=#94d9a8 ctermfg=115 gui=none
-hi String 		guifg=#f07746 ctermfg=166
+hi String 		guifg=#f07746 ctermfg=209
 hi Identifier 	guifg=#d9c634 ctermfg=185 gui=none
 hi Function 	guifg=#ffffff ctermfg=15 gui=bold cterm=bold
-hi Type 		guifg=#e69c0d ctermfg=209 gui=none
+hi Type 		guifg=#e69c0d ctermfg=178 gui=none
 hi Statement 	guifg=#f2f1f0 ctermfg=7 gui=bold cterm=bold
 hi Keyword		guifg=#d9c634 ctermfg=185 gui=none
 hi Constant 	guifg=#d9c634 ctermfg=185 gui=none
