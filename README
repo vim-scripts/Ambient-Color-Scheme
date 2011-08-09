@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3689
+
+Threw together this color scheme loosely derived from Mustang to better match the Ubuntu Ambiance colors. I also used Shawn Biddle's script to add 256 color terminal support, which didn't come out too awful.
+
+Screenshot: http://i.imgur.com/vuggU.png
+
+Conversion tool: http://shawncplus.github.com/Vim-toCterm/
